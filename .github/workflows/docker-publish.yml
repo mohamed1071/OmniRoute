@@ -138,7 +138,7 @@ jobs:
             runner: ubuntu-24.04
             arch: amd64
           - platform: linux/arm64
-            runner: ubuntu-24.04-arm
+            runner: ubuntu-24.04
             arch: arm64
     env:
       IMAGE_NAME: diegosouzapw/omniroute
